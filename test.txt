@@ -1,5 +1,2 @@
-test
-recipe2에서 수정
-asdasdasdsd
-1수정
+1번에서 수정
 
